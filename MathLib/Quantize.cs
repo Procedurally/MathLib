@@ -3,7 +3,7 @@
 namespace MathLib
 {
     /// <summary>
-    /// Quantize values into a given range of values
+    /// Quantize input values into a given range of output values
     /// </summary>
     public class Quantize
     {
